@@ -4,6 +4,7 @@ Interactive Excel dashboard analyzing Indian E-Commerce sales performance (2023�
 📊 Indian E-Commerce Sales Analysis Dashboard (Excel)
 
 📌 Project Overview
+
 This project features an end-to-end interactive Indian E-Commerce Sales Analysis Dashboard built in Microsoft Excel. It transforms raw transactional e-commerce data from 2023 to 2025 into actionable business intelligence, enabling stakeholders to monitor revenue growth, order fulfillment efficiency, customer retention, and regional performance across 15 Indian states.
 📈 Key Performance Indicators (KPIs)
 The dashboard tracks six core business metrics at a glance:
