@@ -1,6 +1,8 @@
 # Excel_Dashboard_project
 Interactive Excel dashboard analyzing Indian E-Commerce sales performance (2023–2025) across 15 states, tracking ₹2.45B in revenue, 100K orders, customer retention, and category trends.
+
 📊 Indian E-Commerce Sales Analysis Dashboard (Excel)
+
 📌 Project Overview
 This project features an end-to-end interactive Indian E-Commerce Sales Analysis Dashboard built in Microsoft Excel. It transforms raw transactional e-commerce data from 2023 to 2025 into actionable business intelligence, enabling stakeholders to monitor revenue growth, order fulfillment efficiency, customer retention, and regional performance across 15 Indian states.
 📈 Key Performance Indicators (KPIs)
