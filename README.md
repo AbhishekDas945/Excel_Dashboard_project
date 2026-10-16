@@ -11,19 +11,19 @@ This project features an end-to-end interactive Indian E-Commerce Sales Analysis
 
 The dashboard tracks six core business metrics at a glance:
 
-Metric                                                         Value 
+Metric                                                 Value 
 
-Total Sales                                                   ₹ 2.45B   
+Total Sales                                           ₹ 2.45B   
 
-Total Orders                                                  1,00,000  
+Total Orders                                          1,00,000  
 
-Units Sold                                                     5,85,640   
+Units Sold                                            5,85,640   
 
-Average Order Value (AOV)     ₹ 24,499  
+Average Order Value (AOV)                             ₹ 24,499  
 
-Total Customers                 22,820  
+Total Customers                                       22,820  
 
-Average Ratings                 3.69 
+Average Ratings                                        3.69 
 
 🛠️ Dashboard Features & Visualizations
 
