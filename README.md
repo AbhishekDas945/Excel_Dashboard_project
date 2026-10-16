@@ -11,19 +11,7 @@ This project features an end-to-end interactive Indian E-Commerce Sales Analysis
 
 The dashboard tracks six core business metrics at a glance:
 
-Metric                                                 Value 
-
-Total Sales                                           ₹ 2.45B   
-
-Total Orders                                          1,00,000  
-
-Units Sold                                            5,85,640   
-
-Average Order Value (AOV)                             ₹ 24,499  
-
-Total Customers                                       22,820  
-
-Average Ratings                                        3.69 
+<img src= "https://github.com/AbhishekDas945/Excel_Dashboard_project/blob/cd878fac570a95013bac775e0b73837f5e7cb72f/Screenshot%202026-09-25%20202017.png" alt= "Excel Dashboard" width = "600">
 
 🛠️ Dashboard Features & Visualizations
 
