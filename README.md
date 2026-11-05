@@ -1,5 +1,11 @@
 __<h1> Indian E-Commerce Sales Analysis Dashboard (Excel | Power Query | Power Pivot | DAX) </h1>__
 
+![Excel](https://img.shields.io/badge/Excel-2ea44f?style=for-the-badge&logo=excel&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Transformation-F2C811?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power Pivot](https://img.shields.io/badge/Power%20Pivot-Data%20Modelling-1f4287?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-Measures%20%26%20KPIs-d9534f?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
 ## __Project Overview__
 
 This project features an end-to-end interactive Indian E-Commerce Sales Analysis Dashboard built in Microsoft Excel. Leveraging Excel's business intelligence stack—Power Query for data transformation, Power Pivot for data modeling, and DAX for custom calculated measures—this dashboard transforms raw transactional data from 2023 to 2025 into actionable insights across 15 Indian states.
